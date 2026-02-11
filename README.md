@@ -13,6 +13,7 @@ Frame-aware guided inbetweening system for Grease Pencil.
 
 ## Blender Version
 Tested on Blender 5.0 (Grease Pencil 3)
+<img width="243" height="528" alt="Screenshot 2026-02-11 174122" src="https://github.com/user-attachments/assets/df06be85-0f46-4453-9686-744701234d8c" />
 
 ## Installation
 
@@ -31,6 +32,15 @@ Tested on Blender 5.0 (Grease Pencil 3)
 4. Click Start Guides
 5. Draw following the hints
 
+
+
+https://github.com/user-attachments/assets/b9ef0ae8-38ba-4a1a-9703-af8ba9c706af
+
+
+
+
 ---
 
 Made with ❤️ for animators
+
+
