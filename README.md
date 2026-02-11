@@ -1,2 +1,36 @@
-# guided-inbetween-blender-2d-animation-tweening-
-Stroke order &amp; Frame-aware guided inbetweening (tweening) addon for Grease Pencil
+# guided-inbetween-blender-2d-animation-tweening-Blender 5 Addon
+Frame-aware guided inbetweening system for Grease Pencil.
+
+## Features
+
+- Stroke-by-stroke guided hints
+- Frame-aware tracking
+- Marker customization (color, shape, size)
+- Arrow customization (color, density, size)
+- Advance on stroke end option
+- Lock monitored frame
+- Background integrity check
+
+## Blender Version
+Tested on Blender 5.0 (Grease Pencil 3)
+
+## Installation
+
+1. Download the .py file
+2. Open Blender
+3. Go to Edit → Preferences → Add-ons
+4. Click Install
+5. Select the file
+6. Enable the addon
+
+## Usage
+
+1. Draw a keyframe (example: frame 1)
+2. Go to a new frame
+3. Open N panel → Guided Tween
+4. Click Start Guides
+5. Draw following the hints
+
+---
+
+Made with ❤️ for animators
